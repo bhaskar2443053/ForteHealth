@@ -1,1 +1,1 @@
-This is the CT image sample data for lungs and brain
+These two CT images are sample data from https://www.kaggle.com/competitions/rsna-str-pulmonary-embolism-detection/data which will be used for unittest and example for CT image processor and reader.
